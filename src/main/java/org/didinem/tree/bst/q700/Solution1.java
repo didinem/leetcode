@@ -1,8 +1,4 @@
-package org.didinem.q700;
-
-import lombok.Getter;
-import lombok.Setter;
-import lombok.val;
+package org.didinem.tree.bst.q700;
 
 /**
  * 给定二叉搜索树（BST）的根节点和一个值。 你需要在BST中找到节点值等于给定值的节点。

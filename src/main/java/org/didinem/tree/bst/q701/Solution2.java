@@ -1,4 +1,4 @@
-package org.didinem.q701;
+package org.didinem.tree.bst.q701;
 
 public class Solution2 {
 
