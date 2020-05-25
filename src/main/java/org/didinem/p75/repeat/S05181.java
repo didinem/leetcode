@@ -3,12 +3,12 @@ package org.didinem.p75.repeat;
 import java.util.Arrays;
 
 /**
- * @Classname S05141
+ * @Classname S05181
  * @Description TODO
- * @Date 2020/5/14 11:42
+ * @Date 2020/5/18 14:40
  * @Created by didinem
  */
-public class S05141 {
+public class S05181 {
 
     public static void sortColors(int[] nums) {
         sort0(nums, 0, nums.length - 1);
@@ -42,7 +42,6 @@ public class S05141 {
                     temp = nums[j];
                     nums[j] = nums[i];
                     nums[i] = temp;
-                    j--;
                     break;
                 }
                 i++;
